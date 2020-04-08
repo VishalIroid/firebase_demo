@@ -184,6 +184,7 @@ class _HomePageState extends State<HomePage> {
 //        Navigator.pop(context);
         updateCategoryFirebase(selectDoc, 1);
 //        dialogShow(context);
+
       },
     );
 
